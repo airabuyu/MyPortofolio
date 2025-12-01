@@ -29,7 +29,7 @@ export function Hero() {
               <Link href="#projects">View Projects</Link>
             </Button>
             <Button variant="outline" size="lg" asChild>
-              <a href="/cv.pdf" download>Download CV</a>
+              <a href="/cv_new.pdf" download>Download CV</a>
             </Button>
             <Button variant="outline" size="lg" asChild>
               <Link href="#contact">Contact Me</Link>
